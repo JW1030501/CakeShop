@@ -1,2 +1,0 @@
-# CakeShop
-CakeShop C#
